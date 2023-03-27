@@ -5,7 +5,7 @@
 
 ```bash
 $ git clone https://github.com/YoussefElmoudene/e-learning-django-app.git
-$ cd django-soft-ui-dashboard
+$ cd e-learning-django-app
 ```
 
 <br />
